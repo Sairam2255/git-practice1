@@ -1,1 +1,2 @@
-Welocme to a Develoepr A
+<<<<<<< HEAD
+Welocme to a Develoepr A and B
